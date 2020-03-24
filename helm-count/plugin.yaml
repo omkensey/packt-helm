@@ -1,6 +1,0 @@
-name: "count"
-version: "0.1.0"
-usage: "Count the number of releases in a cluster"
-description: |-
-  This plugin counts the number of releases in all namespaces of a cluster.  It requires jq.
-command: "$HELM_PLUGIN_DIR/count.sh"
